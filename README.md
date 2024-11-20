@@ -10,6 +10,7 @@
 ### TODO - V3
  - Expand protocol to other processors.
  - boost bandwidth for more slave devices and packet resilience (re-transmission, packet ID-ing)
+ - implement error correction
  - add wireless capabilities
  - upgrade to ESP32 for ATEM communication (Atmega328p is limiting)
 
