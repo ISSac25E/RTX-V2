@@ -71,3 +71,17 @@ This is the collection of all developed core libraries and classes.
 
 ### DEV_Code
 Extra development code
+
+## Photos
+V1 old CENTER_SIDE_SWITCHER Box:
+
+<img src="image.png" alt="alt text" width="500" />
+
+\
+\
+V2 CENTER_SIDE_SWITCHER. Custom 3D printed case for a cleaner look and robust design:
+
+<img src="image-2.png" alt="alt text" width="800" />
+<img src="image-3.png" alt="alt text" width="800" />
+<img src="image-4.png" alt="alt text" width="800" />
+<img src="image-5.png" alt="alt text" width="800" />
