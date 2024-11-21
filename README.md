@@ -85,3 +85,13 @@ V2 CENTER_SIDE_SWITCHER. Custom 3D printed case for a cleaner look and robust de
 <img src="image-3.png" alt="alt text" width="800" />
 <img src="image-4.png" alt="alt text" width="800" />
 <img src="image-5.png" alt="alt text" width="800" />
+
+### V3 experimental testing (200ft) range and max bandwidth. Test resulted in very reliable signal integrity and more than double of V2 Speeds:
+
+<img src="image-6.png" alt="alt text" width="800" />
+
+\
+
+
+Note typo, (6.298 KB/s, not 6298 KB/s). Ran 32.9 seconds, transferred 207k bytes without drops over 200ft. No error correction implemented:
+![alt text](image-7.png)
