@@ -86,6 +86,13 @@ V2 CENTER_SIDE_SWITCHER. Custom 3D printed case for a cleaner look and robust de
 <img src="image-4.png" alt="alt text" width="800" />
 <img src="image-5.png" alt="alt text" width="800" />
 
+### Ethernet Interface EEPROM configuration map:
+![alt text](image-11.png)
+
+### Center-Side EEPROM configuration map:
+![alt text](image-9.png)
+![alt text](image-10.png)
+
 ### V3 experimental testing (200ft) range and max bandwidth. Test resulted in very reliable signal integrity and more than double of V2 Speeds:
 
 <img src="image-6.png" alt="alt text" width="800" />
