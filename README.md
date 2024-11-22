@@ -73,18 +73,23 @@ This is the collection of all developed core libraries and classes.
 Extra development code
 
 ## Photos
-V1 old CENTER_SIDE_SWITCHER Box:
+### V1 old CENTER_SIDE_SWITCHER Box (one was for center camera, one was for side camera):
 
 <img src="image.png" alt="alt text" width="500" />
+<img src="image-15.png" alt="alt text" width="500" />
 
 \
 \
-V2 CENTER_SIDE_SWITCHER. Custom 3D printed case for a cleaner look and robust design:
+### V2 CENTER_SIDE_SWITCHER. Custom 3D printed case for a cleaner look and robust design:
 
 <img src="image-2.png" alt="alt text" width="800" />
 <img src="image-3.png" alt="alt text" width="800" />
 <img src="image-4.png" alt="alt text" width="800" />
 <img src="image-5.png" alt="alt text" width="800" />
+
+### Ethernet Interface (top), Master Interface (bottom):
+<img src="image-13.png" alt="alt text" width="800" />
+<img src="image-14.png" alt="alt text" width="800" />
 
 ### Ethernet Interface EEPROM configuration map:
 ![alt text](image-11.png)
@@ -102,3 +107,6 @@ V2 CENTER_SIDE_SWITCHER. Custom 3D printed case for a cleaner look and robust de
 
 Note typo, (6.298 KB/s, not 6298 KB/s). Ran 32.9 seconds, transferred 207k bytes without drops over 200ft. No error correction implemented:
 ![alt text](image-7.png)
+
+#### RTX V2 Development
+![alt text](image-17.png)
